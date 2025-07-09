@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2015609385 - NamedType 2365063731" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Call succeeded - %1</source>
+          <target>Chiamata riuscita - %1</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2015609385 - NamedType 751038299" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Call failed - %1</source>
+          <target>Chiamata non riuscita - %1</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 1178781371" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File %1 processed</source>
+          <target>File %1 processato</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 1403514585" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File %1 created</source>
+          <target>File %1 creato</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 1984357318" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Call succedeed</source>
+          <target>Chiamata eseguita con successo</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 2700640014" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File not created</source>
+          <target>File non creato</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 308194642" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File not stored correctly</source>
+          <target>File non salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 3873292536" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File not processed</source>
+          <target>File non processato</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2289876685 - NamedType 485732426" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File %1 stored in path %2</source>
+          <target>File %1 salvato nel percorso %2</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2306445213 - NamedType 1152422971" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Impossible to send WS: \ %1 \ %2</source>
+          <target>Errore chiamata WS: \ %1 \ %2</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 4216026876 - NamedType 2928972280" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File name cannot be empty</source>
+          <target>Nome file non può essere vuoto</target>
+        </trans-unit>
+        <trans-unit id="Enum 2107536099 - EnumValue 2137257514 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Out</source>
+          <target>Uscita</target>
+        </trans-unit>
+        <trans-unit id="Enum 2107536099 - EnumValue 884292305 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>In</source>
+          <target>Entrata</target>
+        </trans-unit>
+        <trans-unit id="Enum 2553771294 - EnumValue 1554319400 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>CheckList</source>
+          <target>CheckLists</target>
+        </trans-unit>
+        <trans-unit id="Enum 2553771294 - EnumValue 2092464679 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>IN Flow</source>
+          <target>Flusso in Entrata</target>
+        </trans-unit>
+        <trans-unit id="Enum 2553771294 - EnumValue 2512608267 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Custom Flow</source>
+          <target>Flusso Custom</target>
+        </trans-unit>
+        <trans-unit id="Enum 2553771294 - EnumValue 4194534728 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OUT Flow</source>
+          <target>Flusso in Uscita</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 1906998731 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Closed</source>
+          <target>Chiuso</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 2349051585 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Sent</source>
+          <target>Inviato</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 2529465272 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Received</source>
+          <target>Ricevuto</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 3533284979 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processed</source>
+          <target>Processato</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 4017531717 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Created</source>
+          <target>Creato</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 4146273333 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error</source>
+          <target>Errore</target>
+        </trans-unit>
+        <trans-unit id="Enum 2576917197 - EnumValue 600920656 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Not Processed</source>
+          <target>Non processato</target>
+        </trans-unit>
+        <trans-unit id="Enum 2626631723 - EnumValue 1821279055 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Text</source>
+          <target>Testo</target>
+        </trans-unit>
+        <trans-unit id="Enum 2626631723 - EnumValue 3883182266 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Integer</source>
+          <target>Intero</target>
+        </trans-unit>
+        <trans-unit id="Enum 2626631723 - EnumValue 617522584 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Boolean</source>
+          <target>Booleano</target>
+        </trans-unit>
+        <trans-unit id="Enum 2705614645 - EnumValue 1735507514 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Line</source>
+          <target>Riga</target>
+        </trans-unit>
+        <trans-unit id="Enum 2705614645 - EnumValue 907109761 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Header</source>
+          <target>Testata</target>
+        </trans-unit>
+        <trans-unit id="Enum 2913875754 - EnumValue 2645129061 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Fixed Text</source>
+          <target>Fixed Text</target>
+        </trans-unit>
+        <trans-unit id="Enum 2913875754 - EnumValue 2719529412 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Json</source>
+          <target>Json</target>
+        </trans-unit>
+        <trans-unit id="Enum 2913875754 - EnumValue 429697219 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Xml</source>
+          <target>Xml</target>
+        </trans-unit>
+        <trans-unit id="Enum 3084719524 - EnumValue 1685467211 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Basic Authentication</source>
+          <target>Basic Authentication</target>
+        </trans-unit>
+        <trans-unit id="Enum 3084719524 - EnumValue 283708163 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>FTP</source>
+          <target>FTP</target>
+        </trans-unit>
+        <trans-unit id="Enum 3084719524 - EnumValue 847481612 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OAuth 2.0</source>
+          <target>OAuth 2.0</target>
+        </trans-unit>
+        <trans-unit id="Enum 3249457277 - EnumValue 1090384498 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Authorization Code</source>
+          <target>Authorization Code</target>
+        </trans-unit>
+        <trans-unit id="Enum 3249457277 - EnumValue 2349748771 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Client Credentials</source>
+          <target>Client Credentials</target>
+        </trans-unit>
+        <trans-unit id="Enum 3249457277 - EnumValue 767193361 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Password Credentials</source>
+          <target>Password Credentials</target>
+        </trans-unit>
+        <trans-unit id="Enum 3638315252 - EnumValue 2050619786 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Web Services</source>
+          <target>Web Services</target>
+        </trans-unit>
+        <trans-unit id="Enum 3638315252 - EnumValue 3374690962 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File</source>
+          <target>File</target>
+        </trans-unit>
+        <trans-unit id="Enum 4162828287 - EnumValue 101480657 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import and Delete</source>
+          <target>Importa e cancella</target>
+        </trans-unit>
+        <trans-unit id="Enum 4162828287 - EnumValue 2571599288 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import and Archive</source>
+          <target>Importa e archivia</target>
+        </trans-unit>
+        <trans-unit id="Enum 4162828287 - EnumValue 3201496503 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import</source>
+          <target>Importa</target>
+        </trans-unit>
+        <trans-unit id="Enum 455676977 - EnumValue 1358406803 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Block</source>
+          <target>Bloccante</target>
+        </trans-unit>
+        <trans-unit id="Enum 455676977 - EnumValue 2248886284 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error</source>
+          <target>Errore</target>
+        </trans-unit>
+        <trans-unit id="Enum 455676977 - EnumValue 3955473374 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warning</source>
+          <target>Avviso</target>
+        </trans-unit>
+        <trans-unit id="Enum 455676977 - EnumValue 419426744 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processed</source>
+          <target>Processato</target>
+        </trans-unit>
+        <trans-unit id="Enum 769004974 - EnumValue 1778072510 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Closed</source>
+          <target>Chiuso</target>
+        </trans-unit>
+        <trans-unit id="Enum 769004974 - EnumValue 4020758431 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Released</source>
+          <target>Rilasciato</target>
+        </trans-unit>
+        <trans-unit id="Enum 769004974 - EnumValue 4259830144 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Open</source>
+          <target>Aperto</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Action 2571907030 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entries</source>
+          <target>Movimenti</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Action 2973585204 - Method 1377591017 - NamedType 2046114729" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Execution completed</source>
+          <target>Esecuzione completata</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Action 2973585204 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Execute Manually</source>
+          <target>Esegui manualmente</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Action 3866607850 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Token</source>
+          <target>Visualizza token</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 1651441626 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>EOS Function API Code</source>
+          <target>Cod. config. servizio (EAL)</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 2107536099 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Type</source>
+          <target>Tipo flusso</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3024736484 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Path</source>
+          <target>Percorso file</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3412508182 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>WS Uri</source>
+          <target>Uri WS</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3422481104 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Code</source>
+          <target>Cod. flusso</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3461834954 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3483044347 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Enable</source>
+          <target>Abilitato</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 3853638058 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Type</source>
+          <target>Tipo interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 40117919 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credentials</source>
+          <target>Credenziali</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Control 449802033 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File name with no. series</source>
+          <target>Specifica il nome file utlizzando il nr. di serie</target>
+        </trans-unit>
+        <trans-unit id="Page 1073292886 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flows (TNI)</source>
+          <target>Flussi (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1107476520 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Show Document</source>
+          <target>Mostra documento</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1587086413 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Sent</source>
+          <target>Chiamata</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1669438568 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Response</source>
+          <target>Risposta</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1744923469 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Sent</source>
+          <target>Chiamata</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1813121883 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Download Response File</source>
+          <target>Scarica file risposta</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 1954545519 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Log Details</source>
+          <target>Visualizza dettaglio log</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 2224783030 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Response</source>
+          <target>Risposta</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 311693179 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Documents</source>
+          <target>Documenti</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 3324780168 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Documents</source>
+          <target>Documenti</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 4117948562 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Download Sent File</source>
+          <target>Scarica file inviato</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 554171337 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Sent File</source>
+          <target>Visualizza file inviato</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Action 83106532 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Response File</source>
+          <target>Visualizza file risposta</target>
+        </trans-unit>
+        <trans-unit id="Page 1963730163 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces OUT Entries (TNI)</source>
+          <target>Movimenti in uscita (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 1107476520 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Show Document</source>
+          <target>Mostra documento</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 1587086413 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Records</source>
+          <target>Record</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 216441599 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Show Posted Document</source>
+          <target>Mostra documento registrato</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 2495716258 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View</source>
+          <target>Visualizza</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 2587521383 - Method 1377591017 - NamedType 1881095303" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Completed</source>
+          <target>Elaborazione completata</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 2587521383 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Process Selected</source>
+          <target>Processa selezionati</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 311693179 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Documents</source>
+          <target>Documenti</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 3229225030 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Log Details</source>
+          <target>Visualizza log</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 3324780168 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Documents</source>
+          <target>Documenti</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Action 61298416 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Records</source>
+          <target>Visualizza records</target>
+        </trans-unit>
+        <trans-unit id="Page 2027095220 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces IN Entries (TNI)</source>
+          <target>Movimenti in entrata (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 2111410171 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credentials (TNI)</source>
+          <target>Credenziali (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 2896766694 - Action 1954545519 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>View Log Details</source>
+          <target>Visualizza dettaglio log</target>
+        </trans-unit>
+        <trans-unit id="Page 2896766694 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces OUT Entries (TNI)</source>
+          <target>Movimenti in uscita (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 1081835701 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Export Setup</source>
+          <target>Esporta setup</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 1587086413 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stati</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 2071937805 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Reopen</source>
+          <target>Riapri</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 2674503554 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Close</source>
+          <target>Chiudi</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 311693179 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import/Export</source>
+          <target>Importa/Esporta</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 4032263875 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Release</source>
+          <target>Rilascia</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Action 5983814 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import Setup</source>
+          <target>Importa setup</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Control 2445482498 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>General</source>
+          <target>Generale</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Control 3461834954 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Control 769004974 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Control 838613929 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Code</source>
+          <target>Codice</target>
+        </trans-unit>
+        <trans-unit id="Page 2934924323 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces Card (TNI)</source>
+          <target>Scheda interfaccia (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 1952962675 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OAuth General</source>
+          <target>OAuth General</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 2012392808 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OAuth. App Details</source>
+          <target>OAuth. App Details</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 2075115790 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OAuth 2.0 Setup</source>
+          <target>OAuth 2.0 Setup</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 2445482498 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>General</source>
+          <target>Generale</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 454076846 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>FTP</source>
+          <target>FTP</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Control 971750350 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Basic Authentication</source>
+          <target>Basic Authentication</target>
+        </trans-unit>
+        <trans-unit id="Page 3055945769 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credentials Card (TNI)</source>
+          <target>Scheda credenziali (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 3262997773 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces Log List (TNI)</source>
+          <target>Log movimenti (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 1081835701 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Export Setup</source>
+          <target>Esporta setup</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 2071937805 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Reopen</source>
+          <target>Riapri</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 2503634509 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Release</source>
+          <target>Rilascia</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 2674503554 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Close</source>
+          <target>Chiudi</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 311693179 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import/Export</source>
+          <target>Importa/Esporta</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 558086573 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Action 5983814 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import Setup</source>
+          <target>Importa setup</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Control 3004954119 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Code</source>
+          <target>Codice</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Control 3461834954 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Control 769004974 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Page 641561169 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces List (TNI)</source>
+          <target>Interfacce (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 1290621155 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Token Generated at</source>
+          <target>Token Generated at</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 1651441626 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>EOS Function API Code</source>
+          <target>Cod. config. servizio (EAL)</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 2107536099 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Type</source>
+          <target>Tipo flusso</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 2497116349 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Code</source>
+          <target>Cod. interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 2750141652 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Process</source>
+          <target>Processa</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3017471043 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Table No.</source>
+          <target>Nr. tabella</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3024736484 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Path</source>
+          <target>Percorso file</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3174535945 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Access Token</source>
+          <target>Access Token</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3412508182 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>WS Uri</source>
+          <target>WS Uri</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3422481104 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Code</source>
+          <target>Cod. flusso</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3461834954 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3483044347 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Enable</source>
+          <target>Abilitato</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3675589895 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Token Duration</source>
+          <target>Token Duration</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3706204160 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>TNI GUID</source>
+          <target>GUID</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3853638058 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Type</source>
+          <target>Tipo interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 3925747144 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Token Expires In</source>
+          <target>Token Expires In</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 40117919 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credential Code</source>
+          <target>Cod. credenziale</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 4162828287 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import Mode</source>
+          <target>Mod. importazione</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 4201358533 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>WS Method</source>
+          <target>Metodo WS</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 4268247410 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Archived File Path</source>
+          <target>Percorso file archivio</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 449802033 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Name Code</source>
+          <target>Cod. nome file</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Field 874528 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Process Single Record</source>
+          <target>Processa singolo record</target>
+        </trans-unit>
+        <trans-unit id="Table 1073292886 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flows (TNI)</source>
+          <target>Flussi (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 1825107341 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Source ID</source>
+          <target>ID origine</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 1958297053 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Nr. documento</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 2273413791 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Timestamp</source>
+          <target>Timestamp</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 2319411986 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Format</source>
+          <target>Formato file</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 2359120598 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Posted Document No.</source>
+          <target>Nr. documento registrato</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 2497116349 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Code</source>
+          <target>Cod. interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 2534115039 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File</source>
+          <target>File</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 3024736484 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Path</source>
+          <target>Percorso file</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 3422481104 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Code</source>
+          <target>Cod. flusso</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 3533284979 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processed</source>
+          <target>Processato</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 439039502 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Transaction ID</source>
+          <target>ID transazione</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 449234790 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Name</source>
+          <target>Nome file</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 744788633 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 908126786 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Text</source>
+          <target>Messaggio di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Field 940372718 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Result</source>
+          <target>Risultato</target>
+        </trans-unit>
+        <trans-unit id="Table 1195126394 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces IN Entries (TNI)</source>
+          <target>Movimenti in entrata (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 1825107341 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Source ID</source>
+          <target>ID origine</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 1958297053 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Nr. documento</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 2273413791 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Timestamp</source>
+          <target>Timestamp</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 2349051585 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Sent</source>
+          <target>Inviato</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 2359120598 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Posted Document No.</source>
+          <target>Nr. documento registrato</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 2497116349 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Code</source>
+          <target>Cod. interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 3024736484 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Path</source>
+          <target>Percorso file</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 305187539 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Sent File</source>
+          <target>File chiamata</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 3422481104 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Code</source>
+          <target>Cod. flusso</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 3436704250 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Response File</source>
+          <target>File risposta</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 439039502 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Transaction ID</source>
+          <target>ID transazione</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 449234790 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File Name</source>
+          <target>Nome file</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 744788633 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Field 908126786 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Text</source>
+          <target>Messaggio di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 1402167385 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces OUT Entries (TNI)</source>
+          <target>Movimenti in uscita (TNI)</target>
+        </trans-unit>
+        <trans-unit id="Table 1444577543 - Field 3004954119 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Code</source>
+          <target>Codice</target>
+        </trans-unit>
+        <trans-unit id="Table 1444577543 - Field 3461834954 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Table 1444577543 - Field 3706204160 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>TNI GUID</source>
+          <target>TNI GUID</target>
+        </trans-unit>
+        <trans-unit id="Table 1444577543 - Field 44653557 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Data Exchange Type</source>
+          <target>Tipo scambio dati</target>
+        </trans-unit>
+        <trans-unit id="Table 1444577543 - Field 769004974 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1156135171 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Record No.</source>
+          <target>Nr. record</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1302466209 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Last Stack Error</source>
+          <target>Stack Ultimo Errore</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1787057730 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Log Direction</source>
+          <target>Direzione Log</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1825107341 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Source ID</source>
+          <target>ID Origine</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1870344968 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Log Line ID</source>
+          <target>ID Transazione Log</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 1955582402 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Log Group ID</source>
+          <target>ID gruppo log</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 2273413791 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Timestamp</source>
+          <target>Timestamp</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 232642449 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Source Line No.</source>
+          <target>Nr. Riga Origine</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 2497116349 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Code</source>
+          <target>Cod. interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 3017471043 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Table No.</source>
+          <target>Nr. tabella</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 327060602 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Table System ID</source>
+          <target>System ID tabella</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 3422481104 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Code</source>
+          <target>Cod. flusso</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 4247957019 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Log Description</source>
+          <target>Descrizione Log</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 439039502 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Transaction ID</source>
+          <target>ID transazione</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 455676977 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Log Type</source>
+          <target>Tipo Log</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. Movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 1923759843 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interfaces Log</source>
+          <target>Log Interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 199260834 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Grant Type</source>
+          <target>Grant Type</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 2529110793 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Client Secret</source>
+          <target>Client Secret</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 2575460289 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Password</source>
+          <target>Password</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 2906998308 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Authentication Type</source>
+          <target>Tipo autenticazione</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 2960415224 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Access Token URL</source>
+          <target>Access Token URL</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3025169402 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credential Code</source>
+          <target>Cod. credenziale</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3455630760 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Server Port</source>
+          <target>Porta server</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3461834954 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 348912950 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Resource</source>
+          <target>Resource</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3549826426 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>UserName</source>
+          <target>UserName</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3606669626 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>OAuth Have Service To Service</source>
+          <target>OAuth Have Service To Service</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 3916415109 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Server Address</source>
+          <target>Indirizzo server</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 593885934 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Scope</source>
+          <target>Scope</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Field 652819368 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Client ID</source>
+          <target>Client ID</target>
+        </trans-unit>
+        <trans-unit id="Table 282288455 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credentials (TNI)</source>
+          <target>Credenziali Interfaccia</target>
+        </trans-unit>
+        <trans-unit id="XmlPort 2123069451 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import/Export TNI Setup (TNI)</source>
+          <target>Import/Export TNI Setup (TNI)</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

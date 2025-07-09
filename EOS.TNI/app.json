@@ -1,0 +1,37 @@
+{
+  "id": "b5769c93-6b84-4207-98c0-5b2dc979ee60",
+  "name": "TNI Interfaces Universal Layer",
+  "publisher": "EOS Solutions",
+  "version": "14.0.0.16",
+  "brief": "TNI Interfaces Universal Layer",
+  "description": "TNI Interfaces Universal Layer",
+  "privacyStatement": "https://www.eos-solutions.it/en/privacy.html",
+  "EULA": "https://www.eos-solutions.it/en/eula.html",
+  "url": "https://www.eos-solutions.it/it/app-microsoft-dynamics-365-powerapps-powerbi.html",
+  "help": "https://www.eos-solutions.it/en/contact.html",
+  "contextSensitiveHelpUrl": "https://www.eos-solutions.it/en/contact.html",
+  "logo": "./image/EOSLogo.png",
+  "features": [
+    "TranslationFile", "NoPromotedActionProperties"
+  ],
+  "supportedLocales": [
+    "en-US",
+    "it-IT"
+  ],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50080
+    },
+    {
+      "from": 50100,
+      "to": 50166
+    }
+  ],
+  "runtime":  "3.0",
+  "showMyCode": true
+}
