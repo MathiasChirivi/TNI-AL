@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 610028323 - Method 1066323053 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 160688455 - NamedType 2488651147" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <target>Vuoi inviare una modifica a Credemtel?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1625730298 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1701199055 - NamedType 3941846598" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Active cannot be enabled when IUNGO is enabled.</source>
+          <target>Credemtel Active non può essere abilitato quando IUNGO è abilitato.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 2014115161 - NamedType 3941846598" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Auto Send cannot be enabled when Credemtel Active is not enabled.</source>
+          <target>Non è possibile abilitare l'invio automatico di Credemtel se Credemtel Active non è abilitato.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3022051391 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3371011282 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3804613808 - NamedType 3941846598" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Active cannot be enabled when IUNGO is enabled.</source>
+          <target>Credemtel Active non può essere abilitato quando IUNGO è abilitato.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 1770605764" translate="yes" size-unit="char" xml:space="preserve">
+          <source>You cannot close the line because it has already been received.</source>
+          <target>Non puoi chiudere la linea perché è già stata ricevuta.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 2049196205" translate="yes" size-unit="char" xml:space="preserve">
+          <source>You cannot close the line because it is still linked to a warehouse receipt.</source>
+          <target>Non è possibile chiudere la riga perché è ancora collegata a una ricevuta di magazzino.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 3739999547" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to close the current line?</source>
+          <target>Vuoi davvero chiudere la riga corrente?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 2318275332" translate="yes" size-unit="char" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <target>File XML salvato correttamente</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 3529148567" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Operation not allowed. %1 exists.</source>
+          <target>Operazione non consentita. %1 esiste.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 3899978571" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to cancel the current line?</source>
+          <target>Vuoi davvero annullare la riga corrente?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 202944624 - NamedType 1534025464" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to reopen the current line?</source>
+          <target>Vuoi davvero riaprire la riga corrente?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3374082282 - NamedType 3529148567" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Operation not allowed. %1 exists.</source>
+          <target>Operazione non consentita. %1 esiste.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3374082282 - NamedType 3899978571" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to cancel the current line?</source>
+          <target>Vuoi davvero annullare la riga corrente?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3793438760 - NamedType 2546052617" translate="yes" size-unit="char" xml:space="preserve">
+          <source>The value %1 is not a valid discount.</source>
+          <target>Il valore %1 non è uno sconto valido.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 415629083 - NamedType 1082466519" translate="yes" size-unit="char" xml:space="preserve">
+          <source>%1 %2 in not workin day for Location %3.\Impossible continue.</source>
+          <target>%1 %2 non è un giorno lavorativo per la posizione %3.\Impossibile continuare.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 126146969" translate="yes" size-unit="char" xml:space="preserve">
+          <source>%1 must be greater than 0</source>
+          <target>%1 deve essere maggiore di 0</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 1401540203" translate="yes" size-unit="char" xml:space="preserve">
+          <source>The Order %1 don't exits</source>
+          <target>L'ordine %1 non esiste</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 2039236820" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order line %1 %2 don't exits</source>
+          <target>La riga d'ordine %1 %2 non esiste</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 3314630054" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Quantity must not be less than %1</source>
+          <target>La quantità non deve essere inferiore a %1</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 3783417648" translate="yes" size-unit="char" xml:space="preserve">
+          <source>%1 %2 in not workin day for Location %3.</source>
+          <target>%1 %2 non è un giorno lavorativo per la località %3.</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 594934563" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order line %1 %2 is closed</source>
+          <target>La riga dell'ordine %1 %2 è chiusa</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 763843586" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Vendor %1 is different from the vendor %2 indicated on order %3</source>
+          <target>Il fornitore %1 è diverso dal fornitore %2 indicato nell'ordine %3</target>
+        </trans-unit>
+        <trans-unit id="Page 4145038656 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Error Log</source>
+          <target>Interfaccia credemtel log errori</target>
+        </trans-unit>
+        <trans-unit id="Page 961741539 - Action 1852664502 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Process Order</source>
+          <target>Processa Ordine</target>
+        </trans-unit>
+        <trans-unit id="Page 961741539 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Order Staging List</source>
+          <target>Interfaccia Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1131450641 - Control 278689359 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel</source>
+          <target>CREDEMTEL</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1277387401 - Action 1875507154 - Method 1377591017 - NamedType 331638123" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot export to Credemtel. Check the following:\1. Credemtel must be enabled in Purchases &amp; Payables Setup\2. Credemtel must be active for the vendor\3. Order must be released\4. Document Date must be &lt; Credemtel Activation Date for the vendor\5. Order Type code must be set</source>
+          <target>Impossibile esportare in Credemtel. Verificare quanto segue: 1. Credemtel deve essere abilitato in Setup Contabilità fornitori. 2. Credemtel deve essere attivo per il fornitore. 3. L'ordine deve essere rilasciato. 4. La data del documento deve essere &gt;= Data di attivazione di Credemtel per il fornitore.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1277387401 - Action 1875507154 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Export XML Subcontracting Order to Credemtel</source>
+          <target>Esportazione XML dell'ordine a Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Method 1377591017 - NamedType 331638123" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cannot export to Credemtel. Check the following:\1. Credemtel must be enabled in Purchases &amp; Payables Setup\2. Credemtel must be active for the vendor\3. Order must be released\4. Document Date must be &lt; Credemtel Activation Date for the vendor.</source>
+          <target>Impossibile esportare in Credemtel. Verificare quanto segue: 1. Credemtel deve essere abilitato in Setup Contabilità fornitori. 2. Credemtel deve essere attivo per il fornitore. 3. L'ordine deve essere rilasciato. 4. La data del documento deve essere &gt;= Data di attivazione di Credemtel per il fornitore.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Method 1377591017 - NamedType 3571391846" translate="yes" size-unit="char" xml:space="preserve">
+          <source>All Lines must be sent to Credemtel.</source>
+          <target>Tutte le linee devono essere inviate a Credemtel.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Export Order to Credemtel</source>
+          <target>Esporta ordine a Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1978235249 - Method 92496013 - NamedType 3692948509" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <target>Vuoi inviare una modifica a Credemtel?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 1572991854 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Reopen Credemtel Line</source>
+          <target>Riaprire la linea Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 2393904636 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cancel Credemtel Line</source>
+          <target>Annulla linea Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 2955603052 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Close Credemtel Line</source>
+          <target>Chiudi la linea Credemtel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 3373737092 - NamedType 3692948509" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <target>Vuoi inviare una modifica a Credemtel?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 3388793719 - NamedType 1966440566" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Are you sure you want to delete this line?</source>
+          <target>Sei sicuro di voler eliminare questa riga?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 92496013 - NamedType 3692948509" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <target>Vuoi inviare una modifica a Credemtel?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Control 278689359 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>CREDEMTEL</source>
+          <target>CREDEMTEL</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3355426237 - Action 1572991854 - Method 1377591017 - NamedType 331638123" translate="yes" size-unit="char" xml:space="preserve">
+          <source>You do not have permission to delete this line.</source>
+          <target>Non hai l'autorizzazione per eliminare questa riga.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3355426237 - Action 1572991854 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Delete Credemtel Line</source>
+          <target>Elimina riga Credemtel</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 1139142959 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Time</source>
+          <target>Tempo di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 176518433 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order Line No.</source>
+          <target>Numero riga ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 186421744 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Date</source>
+          <target>Data di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 1905805420 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processing Date</source>
+          <target>Data di elaborazione</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 21039994 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Interface Entry No.</source>
+          <target>Nr. Movimento dell'interfaccia</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2202932243 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Numero d'ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2708250016 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2852966117 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Message</source>
+          <target>Messaggio di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 3135334477 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Table ID</source>
+          <target>Table ID</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 3808951907 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Table Name</source>
+          <target>Nome tabella</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. Movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Error Log</source>
+          <target>Interfaccia credemtel log errori</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1019619766 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Is Error</source>
+          <target>Errore</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1527594213 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target>Numero del fornitore</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1743873737 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Line Status Code</source>
+          <target>Codice di stato della linea</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 176518433 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order Line No.</source>
+          <target>Numero riga ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 205286012 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Country of Origin Code</source>
+          <target>Codice del paese di origine</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2078185145 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processing Date</source>
+          <target>Data di elaborazione</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2161572060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Cod Ubicazione</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2170151335 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send DateTime</source>
+          <target>Invia DataOra</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2202932243 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Nr. Ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2363328873 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Document Type</source>
+          <target>Tipo di documento</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2385270358 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target>Cod Unità di misura</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2632124822 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Data dell'ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2702998682 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Line Discount %</source>
+          <target>Sconto di linea %</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2704404533 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Quantità</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2708250016 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2842094365 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Item Description</source>
+          <target>Descrizione dell'articolo</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2852966117 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Error Message</source>
+          <target>Messaggio di errore</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2927347786 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Processing Time</source>
+          <target>Tempo di elaborazione</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2928745587 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Trace Type</source>
+          <target>Tracciato</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2957781644 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import Time</source>
+          <target>Tempo di importazione</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3444295315 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Is Process</source>
+          <target>Processo</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3492791163 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Import Date</source>
+          <target>Data di importazione</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3728292712 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Received Quantity</source>
+          <target>Quantità ricevuta</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3955473374 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warning</source>
+          <target>Avviso</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4021293878 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Cross Reference No.</source>
+          <target>Nr. cross-reference </target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4176394266 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Order Confirmation No.</source>
+          <target>Numero di conferma dell'ordine</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4187992892 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <target>Costo unitario diretto</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 429198581 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Promised Receipt Date</source>
+          <target>Data di ricezione promessa</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 513339096 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 568743302 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Nr. Articolo</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 593601093 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Movement Type</source>
+          <target>Tipo di movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 691954920 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Line Discount % 2</source>
+          <target>Sconto di linea % 2</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. Movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Staging</source>
+          <target>Interfaccia Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 143703856 - Field 1360375719 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Delete Credemtel Line</source>
+          <target>Elimina Linea Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 3108871611 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Auto Send</source>
+          <target>Invio automatico credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 387682110 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Activation Date</source>
+          <target>Data attivazione credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 945117378 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Active</source>
+          <target>Credemtel attivo</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1856897873 - Field 131129204 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send to Credemetel</source>
+          <target>Inviato a credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1122836507 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Change Price Credemtel</source>
+          <target>Cambia prezzo Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 131129204 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send to Credemetel</source>
+          <target>Inviato a credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 153725051 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Country/Region of Origin Code</source>
+          <target>Codice Paese/Regione di Origine</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1795186567 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Missed Engagement Credemtel</source>
+          <target>Impegno saltato Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 4067922210 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Stato Credemtel</source>
+          <target>Stato Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 950761899 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Order Line Status</source>
+          <target>Stato della riga dell'ordine Credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 1008172601 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Enabled</source>
+          <target>Credemtel Abilitato</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2310367389 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Debug Enabled</source>
+          <target>Debug abilitato</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2344026303 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Go Live Date</source>
+          <target>Data Go Live</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3318689140 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Component Path</source>
+          <target>Percorso salvataggio file componenti</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3667024019 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Delivery Plan Professional Role</source>
+          <target>Ruolo professionale PIANI CONSEGNA</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3731357381 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>ACQ Professional Role</source>
+          <target>Ruolo professionale ACQ</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3331280357 - Field 131129204 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send to Credemetel</source>
+          <target>Invio automatico a credemtel</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3331280357 - Field 3901536644 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Credemtel Order Date</source>
+          <target>Data dell'ordine Credemtel</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

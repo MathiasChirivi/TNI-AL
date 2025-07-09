@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CM1.CREDEMTEL">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 448831778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Error Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 186421744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Error Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 1139142959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Error Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 1905805420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Error Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 21039994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Interface Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 176518433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Order Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 448831778 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Error Log - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Staging</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 205286012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country of Origin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Country of Origin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4021293878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cross Reference No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Cross Reference No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4187992892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Direct Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3492791163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Import Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2957781644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Import Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1019619766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Is Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3444295315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Is Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2702998682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Line Discount % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 691954920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount % 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Line Discount % 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1743873737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Status Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Line Status Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 593601093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movement Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Movement Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 4176394266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Order Confirmation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 176518433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Order Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2078185145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Processing Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2927347786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Processing Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 429198581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promised Receipt Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Promised Receipt Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3728292712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Received Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2170151335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Send DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2928745587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trace Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Trace Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 796284109 - Field 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CM1 Credemtel Staging - Field Warning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 1401540203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Order %1 don't exits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 2039236820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order line %1 %2 don't exits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 3314630054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity must not be less than %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 3783417648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 in not workin day for Location %3.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 126146969" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 must be greater than 0</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 763843586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor %1 is different from the vendor %2 indicated on order %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - NamedType 594934563" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order line %1 %2 is closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - NamedType ErrImp008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 3899978571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel the current line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method CancelPurchLineCREDEMTEL - NamedType CancelLineMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 3529148567" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation not allowed. %1 exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method CancelPurchLineCREDEMTEL - NamedType CancelLineErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 180378443 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method CancelPurchLineCREDEMTEL - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 415629083 - NamedType 1082466519" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 in not workin day for Location %3.\Impossible continue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method CheckLocationNonWorkingDate - NamedType lCtxText001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 3739999547" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to close the current line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ClosePurchLineCREDEMTEL - NamedType CloseLineMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 2049196205" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot close the line because it is still linked to a warehouse receipt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ClosePurchLineCREDEMTEL - NamedType ErrorMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 1770605764" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot close the line because it has already been received.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ClosePurchLineCREDEMTEL - NamedType ErrorMsgQtyReceivedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1577787387 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ClosePurchLineCREDEMTEL - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 668989615 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Processed Successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method CredemtelProcessOrderRespose - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1181407995 - NamedType 2540502824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DecodeOrderResponse - NamedType LineStatusCode1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1181407995 - NamedType 457109449" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DecodeOrderResponse - NamedType LineStatusCode2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1181407995 - NamedType 3557136426" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DecodeOrderResponse - NamedType LineStatusCode3Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1181407995 - NamedType 1294630283" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirmed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DecodeOrderResponse - NamedType LineStatusCode4Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 1181407995 - NamedType 99689964" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DecodeOrderResponse - NamedType LineStatusCode5Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3374082282 - NamedType 3899978571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel the current line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DeletePurchLineCREDEMTEL - NamedType CancelLineMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3374082282 - NamedType 3529148567" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation not allowed. %1 exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method DeletePurchLineCREDEMTEL - NamedType CancelLineErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 2137480402 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error retrieving token from local API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method GetTokenFromLocalApi - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 202944624 - NamedType 1534025464" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to reopen the current line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ReOpenPurchLineCREDEMTEL - NamedType ReOpenLineMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 749121455 - Method 3793438760 - NamedType 2546052617" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value %1 is not a valid discount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Gen. Fnc. - Method ResolveDiscountText - NamedType ErrorTextLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 160688455 - NamedType 2488651147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method Credemtel_OnBeforeModifyUpdatePurchLineVersionIndex - NamedType MessageModifyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1625730298 - NamedType 3514528707" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXPORT_CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method EXPORT_CREDEMTEL - NamedType FncTxtCredemLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1625730298 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method EXPORT_CREDEMTEL - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3207504344 - NamedType 882887432" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXPORT_CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method OnDiscoverDSFunctions - NamedType CredementelEDSSendOrderLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3207504344 - NamedType 1547201596" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXPORT_CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method OnDiscoverDSFunctions - NamedType CredemFnc1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1066323053 - NamedType 3514528707" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EXPORT_CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method OnExecuteDSFunction - NamedType FncTxtCredemLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1066323053 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method OnExecuteDSFunction - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3022051391 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method PurchPost_OnAfterPostPurchaseDoc - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3371011282 - NamedType 2318275332" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File XML saved successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method UndoPurchaseReceiptLine_OnAfterCode - NamedType XMLSavedSuccLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 3804613808 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Active cannot be enabled when IUNGO is enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method Vendor_OnAfterValidateEvent - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 2014115161 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Auto Send cannot be enabled when Credemtel Active is not enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method Vendor_OnAfterValidateEventAutoSend - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 610028323 - Method 1701199055 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Active cannot be enabled when IUNGO is enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Management - Method Vendor_OnAfterValidateEventErrorForIUNGO - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1237678232 - Method 1665861916 - NamedType 928966176" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scaricati correttamente gli order response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CM1 Credemtel Schedules - Method OnRun - NamedType OrderResponseSuccessLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4145038656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Error Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CM1 Credemtel Error Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4145038656 - Action 2647173494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Selected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CM1 Credemtel Error Log List - Action ProcessSelected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 961741539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credemtel Order Staging List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CM1 Credemtel Staging List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 961741539 - Action 1852664502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CM1 Credemtel Staging List - Action Open Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1928022979 - Action 746829113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2276662850">
+          <source>Run Now (Foreground)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Job Queue Entry Card - Action RunNow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1978235249 - Method 92496013 - NamedType 3692948509" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1978235249">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purch. Extended Text - Method HandleCredemtelFieldChange - NamedType MessageModify</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1978235249 - Method 3388793719 - NamedType 1966440566" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1978235249">
+          <source>Are you sure you want to delete this line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purch. Extended Text - Method OnDeleteRecord - NamedType MessageDelete</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Export Order to Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order - Action ExportPeppolOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Method 1377591017 - NamedType 3571391846" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1315228606">
+          <source>All Lines must be sent to Credemtel.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order - Action ExportPeppolOrder - Method OnAction - NamedType ErrorSendToCredemtel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2107562824 - Method 1377591017 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1315228606">
+          <source>Cannot export to Credemtel. Check the following:\1. Credemtel must be enabled in Purchases &amp; Payables Setup\2. Credemtel must be active for the vendor\3. Order must be released\4. Document Date must be &lt; Credemtel Activation Date for the vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order - Action ExportPeppolOrder - Method OnAction - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2898218718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Test Import XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order - Action TestImportXML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315228606 - Action 2898218718 - Method 1377591017 - NamedType 928966176" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1315228606">
+          <source>Order response successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order - Action TestImportXML - Method OnAction - NamedType OrderResponseSuccessLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 92496013 - NamedType 3692948509" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2824982884">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Method HandleCredemtelFieldChange - NamedType MessageModify</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 3373737092 - NamedType 3692948509" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2824982884">
+          <source>Do you want to send a modification to Credemtel?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Method OnAfterGetCurrRecord - NamedType MessageModify</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Method 3388793719 - NamedType 1966440566" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 2824982884">
+          <source>Are you sure you want to delete this line?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Method OnDeleteRecord - NamedType MessageDelete</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 2393904636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Cancel Credemtel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Action CM1_CancelLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 2955603052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Close Credemtel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Action CM1_CloseLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2824982884 - Action 1572991854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Reopen Credemtel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchase Order Subform - Action CM1_OpenLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Action 1666641991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>Credemtel Test JWT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchases &amp; Payables Setup - Action CredemtelTest_JWT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Action 439741393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>Credemtel Test Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchases &amp; Payables Setup - Action CredemtelTest_Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Control 278689359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchases &amp; Payables Setup - Control CREDEMTEL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Control 3327155626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>Credemtel - TNI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchases &amp; Payables Setup - Control CredemtelTNI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 295593849 - Control 1025585973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>TNI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Purchases &amp; Payables Setup - Control TNI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3355426237 - Method 3388793719 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3355426237">
+          <source>You do not have permission to delete this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Subcontr Order Subform - Method OnDeleteRecord - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3355426237 - Action 1572991854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 720507622">
+          <source>Delete Credemtel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Subcontr Order Subform - Action CM1_OpenLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3355426237 - Action 1572991854 - Method 1377591017 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3355426237">
+          <source>You do not have permission to delete this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Subcontr Order Subform - Action CM1_OpenLine - Method OnAction - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1277387401 - Action 1875507154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1400959804">
+          <source>Export XML Subcontracting Order to Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Subcontracting Order - Action ExportSucontractingOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1277387401 - Action 1875507154 - Method 1377591017 - NamedType 331638123" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1277387401">
+          <source>Cannot export to Credemtel. Check the following:\1. Credemtel must be enabled in Purchases &amp; Payables Setup\2. Credemtel must be active for the vendor\3. Order must be released\4. Document Date must be &lt; Credemtel Activation Date for the vendor\5. Order Type code must be set</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Subcontracting Order - Action ExportSucontractingOrder - Method OnAction - NamedType ErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 78995495 - Control 278689359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1033396230">
+          <source>CREDEMTEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 User Setup Card - Control CREDEMTEL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1131450641 - Control 278689359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CM1 Vendor Card - Control CREDEMTEL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1856897873 - Field 131129204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 800628003">
+          <source>Send to Credemetel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purch Doc Sum Buff - Field CM1 Send to Credemetel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3331280357 - Field 3901536644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Credemtel Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Header - Field CM1 Credemtel Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3331280357 - Field 131129204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Send to Credemetel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Header - Field CM1 Send to Credemetel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1495724863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Additional Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Additional Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 4017679070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Cancel Add Item Prop Tag</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Cancel Add Item Prop Tag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1122836507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Change Price Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Change Price Credemtel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 3653730310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Close Add Item Prop Tag</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Close Add Item Prop Tag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 153725051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Country/Region of Origin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Country/Region Origin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1679696488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Credemtel Change Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Credemtel Change Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 950761899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Credemtel Order Line Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Credemtel Ord Line Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 1795186567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Missed Engagement Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Missed engag Credemtel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 131129204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Send to Credemetel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Send to Credemetel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2915343838 - Field 4067922210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Stato Credemtel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchase Line - Field CM1 Status Credemtel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3731357381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>ACQ Professional Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 ACQ Professional Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3318689140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel Component Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel Component Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 1008172601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 4003813667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Cancel Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Cancel Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3173872795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Change Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Change Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2429218811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Close Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Close Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3362737821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Flow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Flow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2009184184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Interface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Interface - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 1222231245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Order Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Ord Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 408976963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Process Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Proc Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3253733105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Receipt Advice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Rcpt Adv - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 1778363508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Credemtel TNI Receipt Advice Storno</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Credemtel TNI Rcpt Adv St - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2310367389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Debug Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Debug Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 3667024019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Delivery Plan Professional Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Delivery Plan Prof. Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 295593849 - Field 2344026303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Go Live Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Purchases &amp; Payables Setup - Field CM1 Go Live Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 143703856 - Field 1360375719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Delete Credemtel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 User Set - Field CM1 Credemtel Delete Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 387682110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Credemtel Activation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Vendor - Field CM1 Credemtel Activation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 945117378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Credemtel Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Vendor - Field CM1 Credemtel Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1662642989 - Field 3108871611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Credemtel Auto Send</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CM1 Vendor - Field CM1 Credemtel Auto Send - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1679696488 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Credemtel Change Type - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1679696488 - EnumValue 4069904181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Credemtel Change Type - EnumValue Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1679696488 - EnumValue 1063157342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revised</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Credemtel Change Type - EnumValue Revised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 3224193060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CAR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue CAR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 3184434975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CARDEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue CARDEL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 3384510734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ORDACQ</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue ORDACQ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 2936988589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ORDACQANN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue ORDACQANN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 2410098505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ORDACQDEL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue ORDACQDEL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3218790852 - EnumValue 1794108093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ORDACQUPD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Document Type - EnumValue ORDACQUPD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2061802712 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Movement Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2061802712 - EnumValue 3475288728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Movement Type - EnumValue Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2061802712 - EnumValue 91407124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Movement Type - EnumValue Exit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2542762333 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2542762333 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Status - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2542762333 - EnumValue 356416822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InProgress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Status - EnumValue InProgress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2542762333 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 146219450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 2976597716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OrderChange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue OrderChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 4283205831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OrderResponse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue OrderResponse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 2859809772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReceiptAdvice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue ReceiptAdvice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3429433442 - EnumValue 3597372919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReceiptAdviceDel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CM1 Trace Type - EnumValue ReceiptAdviceDel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3503983435 - EnumValue 3019723280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Addition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CREDEMTEL Status - EnumValue Addition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3503983435 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CREDEMTEL Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3503983435 - EnumValue 2176757286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CREDEMTEL Status - EnumValue Confirm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3503983435 - EnumValue 3817527484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CREDEMTEL Status - EnumValue Modify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3503983435 - EnumValue 496445946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rejected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CREDEMTEL Status - EnumValue Rejected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905805420 - EnumValue 2654145505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Begin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Error Type - EnumValue Begin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905805420 - EnumValue 405981321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Error Type - EnumValue End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905805420 - EnumValue 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Error Type - EnumValue Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1905805420 - EnumValue 3955473374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Error Type - EnumValue Warning - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

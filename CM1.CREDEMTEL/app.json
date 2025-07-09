@@ -1,0 +1,117 @@
+{
+  "id": "171d46dd-b8c8-4b19-87db-900842e5409c",
+  "name": "CM1.CREDEMTEL",
+  "publisher": "EOS Solutions",
+  "version": "14.0.0.246",
+  "brief": "CM1.CREDEMTEL",
+  "description": "CM1.CREDEMTEL",
+  "privacyStatement": "https://www.eos-solutions.it/en/privacy.html",
+  "EULA": "https://www.eos-solutions.it/en/eula.html",
+  "url": "https://www.eos-solutions.it/it/app-microsoft-dynamics-365-powerapps-powerbi.html",
+  "help": "https://www.eos-solutions.it/en/contact.html",
+  "contextSensitiveHelpUrl": "https://www.eos-solutions.it/en/contact.html",
+  "logo": "./image/EOSLogo.png",
+  "features": [
+    "TranslationFile", "NoPromotedActionProperties"
+  ],
+  "supportedLocales": [
+    "en-US",
+    "it-IT"
+  ],
+  "dependencies": [
+    {
+        "appId": "0d8a4869-40e2-4f4c-b969-7077469f792b",
+        "name": "TDAG45006",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+        "appId": "4e2a89a2-9049-496c-8b3a-f4eee6399b0e",
+        "name": "Common Data Layer",
+        "publisher": "EOS Solutions",
+        "version": "14.0.63.0"
+    },
+    {
+        "appId": "b5769c93-6b84-4207-98c0-5b2dc979ee60",
+        "name": "TNI Interfaces Universal Layer",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+        "appId": "ebe197b4-527a-4775-9a40-fae32c124834",
+        "name": "Purch TableExt",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+      "appId": "d3f057ed-e131-4dc6-a1b9-3af3503a5d2a",
+      "name": "Data Security",
+      "publisher": "EOS Solutions",
+      "version": "14.0.0.0"
+    },
+    {
+        "appId": "3976eb3d-c211-4519-aa02-aceb84997e5b",
+        "name": "Setup TablesExt",
+        "publisher": "EOS Solutions",
+        "version": "14.1.1.0"
+    },
+    {
+        "appId": "7328da5a-cfc5-443c-8e19-25bc16091f58",
+        "name": "TDAG44446",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+        "appId": "91d42cf2-2cb9-4608-8dda-b2ed8a158101",
+        "name": "Inventory Manufacturing TableExt",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+        "appId": "abbca645-dda1-47ef-942a-ccbd1f0aee6d",
+        "name": "TDAG44809",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+        "appId": "8bb96677-5112-4566-b742-12eebbb9a058",
+        "name": "EOS Administration Library",
+        "publisher": "EOS Solutions",
+        "version": "14.0.0.0"
+    },
+    {
+      "appId": "b2dd1d81-3e95-46a8-94ef-8c32d872bf0c",
+      "name": "Advanced Document Reporting",
+      "publisher": "EOS Solutions",
+      "version": "14.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50061,
+      "to": 50080
+    },
+    {
+      "from": 50090,
+      "to": 50096
+    },
+    {
+      "from": 50100,
+      "to": 50166
+    },
+    {
+      "from": 65000,
+      "to": 65005
+    },
+    {
+      "from": 65008,
+      "to": 65013
+    },
+    {"from": 82119, "to": 82122}
+  ],
+  "runtime":  "3.0",
+  "showMyCode": true
+}
